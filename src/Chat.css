@@ -1,0 +1,14 @@
+.message {
+  line-height: normal;
+  margin: 6px;
+  padding: 16px;
+  border-radius: 12px;
+}
+
+.user {
+  background-color: skyblue;
+}
+
+.assistant {
+  background-color: salmon;
+}
